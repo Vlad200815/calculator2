@@ -1,4 +1,4 @@
-# project_with_ai
+# Calculator2
 
 A new Flutter project.
 
